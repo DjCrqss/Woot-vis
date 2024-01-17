@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Configurations>Debug;Release;</Configurations>
+    <PackageId>Wooting.NET</PackageId>
+    <Version>1.2.0</Version>
+    <Authors>Simon Whyte</Authors>
+    <RepositoryUrl>https://github.com/simon-wh/Wooting.NET</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>Wooting RGB control .NET wrapper</Description>
+    <PackageTags>wooting,rgb</PackageTags>
+  </PropertyGroup>
+
+</Project>

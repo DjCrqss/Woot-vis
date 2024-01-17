@@ -1,0 +1,60 @@
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\AudioMonitor.exe
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\AudioMonitor.deps.json
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\AudioMonitor.runtimeconfig.json
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\AudioMonitor.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\AudioMonitor.pdb
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\FftSharp.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.csproj.AssemblyReference.cache
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.FftMonitorForm.resources
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.MenuForm.resources
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.csproj.GenerateResource.cache
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.AssemblyInfoInputs.cache
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.AssemblyInfo.cs
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.csproj.CopyComplete
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\refint\AudioMonitor.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.pdb
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\AudioMonitor.genruntimeconfig.cache
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\obj\Debug\net6.0-windows\ref\AudioMonitor.dll
+C:\Users\DJ\Downloads\swharden Csharp-Data-Visualization main projects-audio_AudioMonitor\bin\Debug\net6.0-windows\Wooting.NET.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\AudioMonitor.exe
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\AudioMonitor.deps.json
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\AudioMonitor.runtimeconfig.json
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\AudioMonitor.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\AudioMonitor.pdb
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\FftSharp.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+C:\Users\DJ\Downloads\WootVis2\bin\Debug\net6.0-windows\Wooting.NET.dll
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.csproj.AssemblyReference.cache
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.FftMonitorForm.resources
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.MenuForm.resources
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.csproj.GenerateResource.cache
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.AssemblyInfoInputs.cache
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.AssemblyInfo.cs
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.csproj.CopyComplete
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.dll
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\refint\AudioMonitor.dll
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.pdb
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\AudioMonitor.genruntimeconfig.cache
+C:\Users\DJ\Downloads\WootVis2\obj\Debug\net6.0-windows\ref\AudioMonitor.dll

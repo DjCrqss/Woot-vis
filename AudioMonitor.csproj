@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+	<PublishSingleFile>true</PublishSingleFile>
+	  <SelfContained>false</SelfContained>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FftSharp" Version="1.1.5" />
+    <PackageReference Include="NAudio" Version="2.0.1" />
+    <PackageReference Include="ScottPlot" Version="4.1.45" />
+    <PackageReference Include="ScottPlot.WinForms" Version="4.1.45" />
+    <PackageReference Include="Wooting.NET" Version="1.6.1" />
+  </ItemGroup>
+
+</Project>
