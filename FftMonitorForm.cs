@@ -13,7 +13,7 @@ public partial class FftMonitorForm : Form
 
     readonly WasapiCapture AudioDevice;
     readonly double[] FftValues;
-
+    private double[][] oldValues;
 
     // Wooting RGB values
     private int count;
@@ -76,11 +76,14 @@ public partial class FftMonitorForm : Form
             var device = RGBControl.GetDeviceInfo();
             infos[i] = device;
         }
+        oldValues = new double[count][];
         for (byte idx = 0; idx < count; idx++)
         {
             RGBControl.SetControlDevice(idx);
             var device = infos[idx];
             KeyColour[,] keys = new KeyColour[RGBControl.MaxRGBRows, RGBControl.MaxRGBCols];
+            // set up decay array.
+            oldValues[idx] = new double[device.MaxColumns];
             for (byte i = 0; i < device.MaxColumns; i++)
             {
                 for (byte j = 0; j < device.MaxRows; j++)
@@ -170,6 +173,16 @@ public partial class FftMonitorForm : Form
 
                 double[] scaledArray = ScaleValues(normalisedArray, highestPower, maxRows);
 
+                // update decay values
+                for (int i = 0; i < maxCols; i++) {
+                    if (oldValues[idx][i] <= scaledArray[i])
+                    {
+                        oldValues[idx][i] = scaledArray[i];
+                    } else if (oldValues[idx][i] > 0){
+                        oldValues[idx][i] -= 1;
+                    }
+                }
+
 
                 //label1.Text = $"Length: {RGBControl.MaxRGBCols} Last: {scaledArray[maxCols-1]}";
 
@@ -181,7 +194,7 @@ public partial class FftMonitorForm : Form
                     
                     for (byte j = 0; j < maxRows; j++)
                     {
-                        if (j >= maxRows - normalisedArray[i]) {
+                        if (j >= maxRows - Math.Max(scaledArray[i], oldValues[idx][i])) {
                             keys[j, i] = new KeyColour(color, Convert.ToByte(255 - color), 20);
                         } else {
                             keys[j, i] = new KeyColour(20, 20, 20);
@@ -237,7 +250,6 @@ public partial class FftMonitorForm : Form
 
         return inputArray;
     }
-
     private double[] NormaliseValues(double[] inputArray) {
         for (int x = 0; x < inputArray.Length; x++)
         {
